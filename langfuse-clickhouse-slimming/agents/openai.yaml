@@ -1,0 +1,7 @@
+interface:
+  display_name: "减肥 Langfuse 和 ClickHouse"
+  short_description: "排查并压缩 Langfuse 与 ClickHouse 磁盘占用"
+  default_prompt: "Use $减肥langfuse和clickhouse to diagnose and slim a self-hosted Langfuse + ClickHouse deployment."
+
+policy:
+  allow_implicit_invocation: true
